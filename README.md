@@ -30,4 +30,5 @@ Advent of Code uses OAuth to confirm your identity through other services. When 
 ## **I find the text on the site hard to read. Is there a high contrast mode?**
 There is a high contrast alternate stylesheet. Firefox supports these by default (View -> Page Style -> High Contrast).
 
-## **I have a puzzle idea! Can I send it to you?** Please don't. Because of legal issues like copyright and attribution, I don't accept puzzle ideas, and I won't even read your email if it looks like one just in case I use parts of it by accident.
+## **I have a puzzle idea! Can I send it to you?** 
+Please don't. Because of legal issues like copyright and attribution, I don't accept puzzle ideas, and I won't even read your email if it looks like one just in case I use parts of it by accident.
