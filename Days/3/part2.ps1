@@ -27,6 +27,7 @@ For ($i = 1; $i -lt $Terrain.count; $i++) {
     If ($Terrain[$i][($i*7)%$Repeat] -eq '#') {
         $Count.'r7d1'++
     }
+    #Ensure we don't go above $Terrain[$Terrain.Count]
     $ii = $i*2
     If ($ii -le $Terrain.count) {
         # Right 1, down 2
